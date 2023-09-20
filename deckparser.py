@@ -8,12 +8,22 @@ class DeckParser:
         with open(outPath, "w") as out:
             deck1 = {}
             deck2 = {}
-            with open(path1, "r") as file1:
-                lines1 = file1.readlines()
-                for line in lines1:
-                    pass
-                
-            with open(path2, "r") as file2:
-                lines2 = file2.readlines()
+
                      
+    def parseFile(self, path):
+        with open(path, "r") as file:
+            lines = file.readlines()
+            for line in lines:
+                line = line.split()
+                count = line[0]
+                name = line[1]
+                pos = 2
+                while not line[pos].startswith("("):
+                    name.append(" " + line[pos])
+                    pos += 1
+                set = line[pos]
+                id = line[pos + 1]
+                
                     
+                
+                
