@@ -1,0 +1,86 @@
+1 Elenda, the Dusk Rose (RIX) 157 *F*
+1 Anguished Unmaking (PSOI) 242 *F*
+1 Animation Module (KLD) 194 *F*
+1 Arcane Signet (CMR) 297 *F*
+1 Arguel's Blood Fast // Temple of Aclazotz (XLN) 90 *F*
+1 Ashnod's Altar (EMA) 218 *F*
+1 Bastion of Remembrance (IKO) 73 *F*
+1 Blade of the Bloodchief (ZEN) 196 *F*
+1 Blood Artist (AVR) 86 *F*
+1 Bloodline Keeper // Lord of Lineage (ISD) 90 *F*
+1 Bloodthrone Vampire (ROE) 98 *F*
+1 Bojuka Bog (WWK) 132 *F*
+1 Bone Shredder (ULG) 49 *F*
+1 Brightclimb Pathway // Grimclimb Pathway (ZNR) 285 *F*
+1 Captivating Vampire (M11) 87 *F*
+1 Castle Locthwain (ELD) 389 *F*
+1 Caves of Koilos (M15) 241 *F*
+1 Coldsteel Heart (2X2) 301 *F*
+1 Command Tower (CMR) 350 *F*
+1 Cordial Vampire (MH1) 83 *F*
+1 Cruel Celebrant (WAR) 188 *F*
+1 Damn (MH2) 396 *F*
+1 Dark Prophecy (M14) 93 *F*
+1 Diabolic Intent (BRO) 89 *F*
+1 Elspeth Conquers Death (THB) 13 *F*
+1 Erebos, Bleak-Hearted (PTHB) 93s *F*
+1 Expedition Map (2XM) 255 *F*
+1 Fabled Passage (ELD) 244 *F*
+1 Fellwar Stone (DRK) 102
+1 Fetid Heath (A25) 238 *F*
+1 Forerunner of the Legion (RIX) 9 *F*
+1 Ghost Lantern // Bind Spirit (CLB) 128 *F*
+1 Godless Shrine (RNA) 248 *F*
+1 Gold Myr (MRD) 180 *F*
+1 Grave Pact (10E) 144 *F*
+1 Hatred (WC99) js64sb
+1 Isolated Chapel (DOM) 241 *F*
+1 Leaden Myr (MRD) 191 *F*
+1 Legion Lieutenant (RIX) 163 *F*
+1 Liliana, Dreadhorde General (WAR) 97★
+1 Luminous Broodmoth (IKO) 371 *F*
+1 Malakir Rebirth // Malakir Mire (ZNR) 111 *F*
+1 Marsh Flats (MM3) 239 *F*
+1 Mavren Fein, Dusk Apostle (XLN) 24 *F*
+1 Ministrant of Obligation (RNA) 16 *F*
+1 Nim Deathmantle (2X2) 309 *F*
+1 Ophiomancer (CC2) 3 *F*
+1 Orzhov Locket (RNA) 236 *F*
+1 Orzhov Signet (SLD) 294 *E*
+1 Pawn of Ulamog (ROE) 122 *F*
+1 Phyrexian Tower (UMA) 248 *F*
+1 Plaguecrafter (GRN) 82 *F*
+6 Plains (PRW2) B03 *F*
+1 Plumb the Forbidden (STX) 81 *F*
+1 Reanimate (CC2) 5 *F*
+1 Recruiter of the Guard (CN2) 22
+1 Sign in Blood (MM2) 97 *F*
+1 Silent Clearing (MH1) 246 *F*
+1 Skullclamp (V09) 12 *F*
+1 Smothering Tithe (RNA) 22 *F*
+1 Snowfield Sinkhole (KHM) 269 *F*
+1 Sol Ring (CMR) 700 *F*
+1 Stoneforge Mystic (PGPX) 2016 *F*
+10 Swamp (PRW2) B04 *F*
+1 Swords to Plowshares (STA) 73 *F*
+1 Tainted Field (TOR) 140 *F*
+1 Takenuma, Abandoned Mire (PNEO) 278p *F*
+1 Talisman of Hierarchy (MH1) 233 *F*
+1 Tevesh Szat, Doom of Fools (CMR) 153 *F*
+1 Teysa Karlov (RNA) 212 *F*
+1 Teysa, Orzhov Scion (GK2) 28 *F*
+1 The Meathook Massacre (PMID) 112p *F*
+1 Twilight Prophet (CMM) 193 *F*
+1 Urborg, Tomb of Yawgmoth (M15) 248 *F*
+1 Vampiric Tutor (EMA) 112 *F*
+1 Vanishing Verse (STX) 244 *F*
+1 Vault of Champions (CMR) 360 *F*
+1 Vesperlark (MH1) 35 *F*
+1 Vindicate (A25) 219 *F*
+1 Viscera Seer (M11) 120 *F*
+1 Voldaren Estate (VOW) 403 *F*
+1 Welcoming Vampire (VOW) 46 *F*
+1 Westvale Abbey // Ormendahl, Profane Prince (SOI) 281 *F*
+1 Woe Strider (THB) 317 *F*
+1 Yahenni, Undying Partisan (AER) 74 *F*
+1 Yawgmoth, Thran Physician (MH1) 116 *F*

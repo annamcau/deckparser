@@ -1,11 +1,5 @@
 import sys
-
-class DeckParser:
-    def __init__(self):
-        pass
-    
-    def merge(self, path1, path2):
-        pass
+import deckparser
 
 if __name__ == "__main__":
     args = []
@@ -14,10 +8,10 @@ if __name__ == "__main__":
         for arg in sys.argv[1:]:
             args.append(arg)
     
-    obj = DeckParser()
+    obj = deckparser.DeckParser()
     if args[0] == "merge":
-        if len(args) > 2:
-            obj.merge(args[1], args[2])
+        if len(args) > 3:
+            obj.merge(args[1], args[2], args[3])
         else:
             print("Insufficient filename args for function 'merge'")
     else:

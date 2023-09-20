@@ -1,0 +1,90 @@
+1 Elenda, the Dusk Rose (RIX) 157
+1 Agadeem's Awakening // Agadeem, the Undercrypt (ZNR) 90
+1 Anguished Unmaking (SOI) 242
+1 Arcane Signet (SLD) 201
+1 Ashnod's Altar (6ED) 274
+1 Bastion of Remembrance (IKO) 73
+1 Bitterblossom (MOR) 58
+1 Blackblade Reforged (ZNC) 107
+1 Blood Artist (C17) 99
+1 Bloodghast (SLD) 6
+1 Bojuka Bog (C21) 281
+1 Brightclimb Pathway // Grimclimb Pathway (ZNR) 259
+1 Burnished Hart (C19) 211
+1 Cabal Coffers (TOR) 139
+1 Carrier Thrall (DDR) 42
+1 Carrion Feeder (MH1) 81
+1 Castle Ardenvale (ELD) 238
+1 Castle Locthwain (ELD) 241
+1 Cathars' Crusade (AVR) 10
+1 Command Tower (CMR) 350
+1 Cruel Celebrant (WAR) 188
+1 Dark Confidant (2XM) 81
+1 Dark Prophecy (M14) 93
+1 Demonic Tutor (UMA) 93
+1 Despark (C20) 209
+1 Dictate of Erebos (JOU) 65
+1 Dreadhorde Invasion (WAR) 86
+1 Emeria's Call // Emeria, Shattered Skyclave (ZNR) 12
+1 Endrek Sahr, Master Breeder (C13) 76
+1 Felisa, Fang of Silverquill (C21) 2 *F*
+1 Fetid Heath (A25) 238
+1 Field of the Dead (M20) 247
+1 Flawless Maneuver (C20) 26
+1 Generous Gift (MH1) 11
+1 Godless Shrine (RNA) 248
+1 Grave Pact (STH) 60
+1 Grim Tutor (M21) 103
+1 Hangarback Walker (ORI) 229
+1 Heraldic Banner (ELD) 222
+1 High Market (C21) 293
+1 Hunted Witness (GRN) 15
+1 Isolated Chapel (ISD) 242
+1 Kabira Takedown // Kabira Plateau (ZNR) 19
+1 Karmic Guide (ULG) 11
+1 Legion's Landing // Adanto, the First Fort (XLN) 22
+1 Liliana, Dreadhorde General (PWAR) 97p
+1 Luminous Broodmoth (IKO) 21
+1 Lurrus of the Dream-Den (IKO) 226
+1 Malakir Rebirth // Malakir Mire (ZNR) 111
+1 Myr Sire (MBS) 116
+1 Myriad Landscape (C19) 261
+1 Orzhov Enforcer (RNA) 79
+1 Orzhov Signet (C21) 254
+1 Pawn of Ulamog (ROE) 122
+1 Phyrexian Tower (JMP) 493
+1 Pitiless Plunderer (RIX) 81
+6 Plains (ELD) 250
+1 Plumb the Forbidden (STX) 81
+1 Razaketh, the Foulblooded (HOU) 73
+1 Reveillark (MOR) 22
+1 Secure the Wastes (DTK) 36
+1 Shineshadow Snarl (STX) 272
+1 Sidisi, Undead Vizier (DTK) 120
+1 Silent Clearing (MH1) 246
+1 Skullclamp (C16) 271
+1 Slash the Ranks (CMR) 47
+1 Sol Ring (C21) 263
+1 Solemn Simulacrum (C21) 264
+1 Spawning Pit (DST) 141
+6 Swamp (AKH) 252
+1 Sword of the Animist (ORI) 240
+1 Swords to Plowshares (EMA) 32
+1 Szat's Will (CMR) 152
+1 Tainted Field (C15) 311
+1 Talisman of Hierarchy (MH1) 233
+1 Teferi's Protection (STA) 11
+1 Temple of Silence (C21) 325
+1 Teysa Karlov (RNA) 212
+1 Teysa, Orzhov Scion (GPT) 134
+1 Tragic Arrogance (C21) 109
+1 Tymna the Weaver (CMR) 539 *E*
+1 Urborg, Tomb of Yawgmoth (UMA) 254
+1 Vampiric Tutor (CMR) 156
+1 Vanishing Verse (STX) 244
+1 Vault of Champions (CMR) 360
+1 Viscera Seer (M11) 120
+1 Wayfarer's Bauble (PLIST) 278
+1 Westvale Abbey // Ormendahl, Profane Prince (SOI) 281
+1 Yawgmoth, Thran Physician (TSR) 336
+1 Zulaport Cutthroat (A25) 117
