@@ -1,17 +1,19 @@
-import sys
+import argparse
 import deckparser
 
 if __name__ == "__main__":
     args = []
-    if len(sys.argv) > 1:
-        # additional args
-        for arg in sys.argv[1:]:
-            args.append(arg)
+    parser = argparse.ArgumentParser(description="Parses decks for use in merging")
+    parser.add_argument('func', type=str, help="Determines function of deckparser (currently only merge)")
+    parser.add_argument('path1', type=str, help="Name of first input decklist (MTGO Format)")
+    parser.add_argument('path2', type=str, help="Name of second input decklist (MTGO Format)")
+    parser.add_argument('out', type=str, help="Output path for resulting merged list")
+    args = parser.parse_args()
     
     obj = deckparser.DeckParser()
-    if args[0] == "merge":
-        if len(args) > 3:
-            obj.merge(args[1], args[2], args[3])
+    if args.func == "merge":
+        if args.path1 and args.path2 and args.out:
+            obj.merge(args.path1, args.path2, args.out)
         else:
             print("Insufficient filename args for function 'merge'")
     else:
